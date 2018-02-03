@@ -1,0 +1,9 @@
+{
+  "appname": "studyWebpack",
+  "type": "multipages",
+  "pages": [
+    "index",
+    "map"
+  ],
+  "version": "0.9.1"
+}
